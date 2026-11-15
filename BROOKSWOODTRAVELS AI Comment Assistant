@@ -1,0 +1,31 @@
+terms.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Terms of Service | BROOKSWOODTRAVELS AI Comment Assistant</title>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p>Last updated: November 16, 2026</p>
+
+  <h2>1. About This Application</h2>
+  <p>BROOKSWOODTRAVELS AI Comment Assistant is a privately operated tool intended to help the owner of the @brookswoodtravels TikTok account organize comments, prepare AI-assisted reply drafts, and review replies before publication.</p>
+
+  <h2>2. Authorized Use</h2>
+  <p>The application is intended for use only by its authorized operator. It is not a public comment-reply service.</p>
+
+  <h2>3. TikTok Integration</h2>
+  <p>Any TikTok integration is subject to TikTok's applicable terms, developer policies, permissions, and API availability. Access to TikTok data and publication of replies will only occur through permitted methods.</p>
+
+  <h2>4. AI-Generated Content</h2>
+  <p>AI-generated replies may contain errors. The operator is responsible for reviewing and approving replies before publication.</p>
+
+  <h2>5. Availability</h2>
+  <p>The application is provided on an as-available basis. Features may be changed, suspended, or discontinued.</p>
+
+  <h2>6. Changes to These Terms</h2>
+  <p>These terms may be updated as the application develops. The latest version will be published on this page.</p>
+</body>
+</html>
