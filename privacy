@@ -1,0 +1,41 @@
+privacy.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy | BROOKSWOODTRAVELS AI Comment Assistant</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Last updated: November 16, 2026</p>
+
+  <h2>1. About This Application</h2>
+  <p>BROOKSWOODTRAVELS AI Comment Assistant is a privately operated application being developed to help manage comments on the @brookswoodtravels TikTok account.</p>
+
+  <h2>2. Information We May Process</h2>
+  <p>Subject to TikTok's authorization and API permissions, the application may process TikTok usernames, public comments, video identifiers, comment identifiers, AI-generated reply drafts, approval decisions, and reply publication records.</p>
+
+  <h2>3. How Information Is Used</h2>
+  <p>Information is used to organize comments, prepare suggested replies, enable human review, prevent duplicate responses, and maintain operational records.</p>
+
+  <h2>4. AI and Service Providers</h2>
+  <p>Comment information may be processed by AI and workflow service providers when those integrations are enabled. Providers will be used subject to applicable privacy requirements and platform policies.</p>
+
+  <h2>5. Storage and Retention</h2>
+  <p>Operational information may be stored in access-controlled systems, including a comment inbox and response history. Records will be retained only as reasonably necessary for the application's operation, auditing, and compliance.</p>
+
+  <h2>6. Data Sharing</h2>
+  <p>Personal information is not sold. Information may be shared with authorized service providers as necessary to operate the application or when legally required.</p>
+
+  <h2>7. Security</h2>
+  <p>Reasonable measures will be used to restrict unauthorized access to stored information and integration credentials.</p>
+
+  <h2>8. Privacy Requests</h2>
+  <p>Individuals may request information about relevant personal data or request its deletion, subject to applicable legal and operational requirements. A contact method will be published before the application processes live TikTok user data.</p>
+
+  <h2>9. Changes to This Policy</h2>
+  <p>This policy may be updated to reflect changes in the application's functionality, service providers, or data practices.</p>
+</body>
+</html>
